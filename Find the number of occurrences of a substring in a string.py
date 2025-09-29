@@ -1,4 +1,4 @@
-str_x = "Emma is good developer. Emma is a writer"
+str_x = "Emma is good developer Emma is a writer"
 substring = "Emma"
 count = 0
 words = str_x.split(" ")
